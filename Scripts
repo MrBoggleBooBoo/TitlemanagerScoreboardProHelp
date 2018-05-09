@@ -1,0 +1,14 @@
+BuiltIn!
+
+Shine:
+${shine:[fade-in,stay,fade-out][primary-color,secondary-color]My text} (colour codes are placed in the primary and secondary section)
+Marquee/Moving:
+${marquee:[fade-in,stay,fade-out][marquee-width]My text}
+Text Write Script:
+${text_write:[fade-in,stay,fade-out]My text}
+Text delete Script:
+${text_delete:[fade-in,stay,fade-out]My text}
+Countdown Script:
+${count_down:[fade-in,stay,fade-out]10}  (10 is the srating number, CAN BE CHANGED)
+Countup Script:
+${count_up:[fade-in,stay,fade-out]10} (10 is the srating number, CAN BE CHANGED)
