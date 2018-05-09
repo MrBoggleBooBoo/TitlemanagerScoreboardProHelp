@@ -1,0 +1,31 @@
+Normal Placeholders
+
+
+%{player}	The player's username.
+%{displayname}	The player's display name (nickname).
+%{strippeddisplayname}	The player's displayname (nickname), without colors.
+%{world}	The current name of the world that the player is in.
+%{world-time}	The current time of the world the player is in.
+%{12h-world-time}	The current time of the world the player is in, in a 12 hour format.
+%{24h-world-time}	The current time of the world the player is in, in a 24 hour format.
+%{world-online}	The current amount of players in the world the player is in.
+%{online}	The current amount of players on the server.
+%{max}	The max amount of players on the server.
+%{server-time}	The current time of the server.
+%{ping}	The player's ping.
+%{group}	The primary group name of the player. (requires vault)
+%{balance}	The player's balance.
+%{safe-online}	The amount of online player's without vanished players. (Requires Essentials, VanishNoPacket and / or SuperVanish)
+
+
+BungeeCord Placeholders
+
+Placeholders	Description
+%{bungeecord-online}	Displays the combined player count of all servers behind BungeeCord.
+%{online:YourServerHere}	Displays the player count of the given server. (Replace YourServerHere with the bungeecord server name)
+%{server}	Displays the current server's BungeeCord name.
+
+
+
+THE PLUGIN IS ALSO SUPPORTED BY PLACEHOLDERAPI!
+DOWNLOAD THAT PLUGIN FOR MORE PLACEHOLDERS!
