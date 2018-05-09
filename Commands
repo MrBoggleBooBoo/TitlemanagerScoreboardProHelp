@@ -1,0 +1,20 @@
+Commands:
+
+All commands start with either /tm or /titlemanager
+
+Broadcast,
+/tm bc {message}
+Actionbar broadcast,
+/tm abc {message}
+Message,
+/tm msg {message}
+Actionbar message,
+/tb amsg {message}
+Toggle on/off,
+/tm sb toggle
+Animations,
+/tm animations
+Scripts,
+/tm skripts
+Reload,
+/tm reload
